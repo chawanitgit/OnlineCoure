@@ -1,0 +1,15 @@
+C:\Users\chawa\Study\HelloWorldGUI\HelloWorldGUI\bin\Debug\HelloWorldGUI.exe.config
+C:\Users\chawa\Study\HelloWorldGUI\HelloWorldGUI\bin\Debug\HelloWorldGUI.exe
+C:\Users\chawa\Study\HelloWorldGUI\HelloWorldGUI\bin\Debug\HelloWorldGUI.pdb
+C:\Users\chawa\Study\HelloWorldGUI\HelloWorldGUI\obj\Debug\MainWindow.g.cs
+C:\Users\chawa\Study\HelloWorldGUI\HelloWorldGUI\obj\Debug\App.g.cs
+C:\Users\chawa\Study\HelloWorldGUI\HelloWorldGUI\obj\Debug\HelloWorldGUI_MarkupCompile.cache
+C:\Users\chawa\Study\HelloWorldGUI\HelloWorldGUI\obj\Debug\HelloWorldGUI_MarkupCompile.lref
+C:\Users\chawa\Study\HelloWorldGUI\HelloWorldGUI\obj\Debug\MainWindow.baml
+C:\Users\chawa\Study\HelloWorldGUI\HelloWorldGUI\obj\Debug\HelloWorldGUI.g.resources
+C:\Users\chawa\Study\HelloWorldGUI\HelloWorldGUI\obj\Debug\HelloWorldGUI.Properties.Resources.resources
+C:\Users\chawa\Study\HelloWorldGUI\HelloWorldGUI\obj\Debug\HelloWorldGUI.csproj.GenerateResource.cache
+C:\Users\chawa\Study\HelloWorldGUI\HelloWorldGUI\obj\Debug\HelloWorldGUI.csproj.CoreCompileInputs.cache
+C:\Users\chawa\Study\HelloWorldGUI\HelloWorldGUI\obj\Debug\HelloWorldGUI.exe
+C:\Users\chawa\Study\HelloWorldGUI\HelloWorldGUI\obj\Debug\HelloWorldGUI.pdb
+C:\Users\chawa\Study\HelloWorldGUI\HelloWorldGUI\obj\Debug\HelloWorldGUI.csproj.AssemblyReference.cache
